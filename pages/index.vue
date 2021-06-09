@@ -6,22 +6,22 @@
         nuxtjs
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        Are you looking to watch Rick and Morty Season 5 123movies online? Click the button below!
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://preciouslifemovie.com/series/rick-and-morty/"
           target="_blank"
           class="button--green"
         >
-          Documentation
+          Watch Now
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://preciouslifemovie.com/episode/rick-and-morty-season-1-episode-1/"
           target="_blank"
           class="button--grey"
         >
-          GitHub
+          Download Now
         </a>
       </div>
     </div>
